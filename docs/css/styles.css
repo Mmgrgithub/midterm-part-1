@@ -1,0 +1,24 @@
+.wrapper {
+    width: 960px;
+}
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.floatLeft {
+    float: left;
+}
+
+#top {
+    height: 135px;
+}
+
+.grSmall {
+    width: 329px;
+    padding-right: 19px;
+    padding-left: 19px;
+}
+.Helvetica {
+    font-family: "Helvetica Neue";
+}
